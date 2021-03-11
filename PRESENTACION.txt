@@ -1,7 +1,0 @@
-Hola amigos programadores, sean bienvenidos a un nuevo video tutorial de Slee Dw.
-En esta ocasión vamos a desarrollar un proyecto web llama "Menú de Cortina con Htlm y Css".
-Así como lo están viendo en pantalla.
-Espero que te quedes conmigo hasta el final del video.
-Y no olvides en apoyarnos con tu hermoso like y comentar 
-¿Qué Proyecto te gustaría que hiciéramos próximamente?
-Y sin más que decir, vamos a ello.. (CORRE INTRO)
